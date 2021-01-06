@@ -1,9 +1,10 @@
 # Machine-Learning-Models
 A collection of machine learning models implemented on Google Colaboratory using Python and libraries such as Tensorflow, Keras, and Matplotlib.
 
+
 ## Model Synopsis
 
-- **Celeb_Face_Categorizer.ipynb:**
+- **Celeb_Face_Categorizer:**
   - Training a classifier to classify celebrity photos jointly using four 4 labels with 10000 photos to later make predictions on a specific set of labels.
   - Model was successful in predictions with over **85% accuracy**.
   - *Some Libraries Used:* Pandas, TensorFlow, Matplotlib, NumPy.
@@ -14,5 +15,12 @@ A collection of machine learning models implemented on Google Colaboratory using
   - Utilized Data Augmentation to fight Overfitting.
   - Observed a **94.6%** accuracy with the limited amount of training data samples
   - Implemented pre-trained Convolutional neural network **VGG16**.
+  
+  
+  ---
+  Primary Resource: Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron
+  ---
+ 
+ 
   
 
